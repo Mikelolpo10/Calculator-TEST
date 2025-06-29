@@ -1,0 +1,23 @@
+p {
+  display: block;
+}
+
+#showQuantity {
+  background-color: yellow;
+}
+
+#addToCart {
+  background-color: orange;
+}
+
+#add2 {
+  background-color: green;
+}
+
+#add3 {
+  background-color: blue;
+}
+
+#resetCart {
+  background-color: red;
+}
